@@ -1,7 +1,7 @@
 import requests
 
 
-api_url = 'http://api.open-notify.org/iss-now.json'
+api_url = 'url'
 
 response = requests.get(api_url)   # Отправляем GET-запрос и сохраняем ответ в переменной response
 
